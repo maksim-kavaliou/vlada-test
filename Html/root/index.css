@@ -1,0 +1,47 @@
+input, li {
+  background: red;
+}
+
+#id1 {
+  background: green;
+}
+
+li.big.specific {
+  font-size: 50px;
+}
+
+.c1 + .c3 {
+  background: yellow;
+}
+
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: blue;
+  font-size: 20px;
+}
+
+
+/*
+color - цвет текста
+background - фон - цвет, изображение, ссылка ...
+border - граница - размер, цвет, форма
+
+width - ширина
+height - высота
+margin - внешний отступ
+padding - внутренний отступ
+
+position - позиция - relative, absolute, fixed ...
+left, right, top, bottom - координаты
+
+float - обтекание 
+*/
